@@ -15,7 +15,7 @@
 		<a href="https://www.linkedin.com/in/modwrk/">LinkedIn</a>
 		<h2>Deep Dive Homework</h2>
 		<a href="https://bootcamp-coders.cnm.edu/~eclevenger/data-design/index.php">Data Design</a>
-		<div class="section">
+		<section>
 			<div  class="split quantity">
 				<h2>Quantitative Accomplishments</h2>
 					<ul>
@@ -38,8 +38,8 @@
 				<p>My natural inclination is to look at problems from several angles.</p>
 				<p>I am inherently altruistic.</p>
 			</div>
-		</div>
-		<div class="section">
+		</section>
+		<section>
 			<div class="split golden">
 				<h2>Golden Circle</h2>
 				<p>Why: I want to support the local community</p>
@@ -52,13 +52,13 @@
 					<br>To do that I’m building a platform that connects potential donors to organizations with the same goals.
 					<br>Who do you want to support?</p>
 			</div>
-		</div>
-		<div class="section">
+		</section>
+		<section>
 			<article class="reflection weekZero">
 				<h2>Week Zero Reflection</h2>
 				<p>
 				</p>
 			</article>
-		</div>
+		</section>
 	</body>
 </html>
