@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
-		<link rel="stylesheet" href="style.css">
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" href="style.css"/>
 		<title>Pro Dev Doc</title>
 	</head>
 	<body>
