@@ -1,0 +1,10 @@
+section {
+	width: 100%;
+	height: 350px;
+}
+
+.split {
+	width: 49%;
+	height: auto;
+
+}
