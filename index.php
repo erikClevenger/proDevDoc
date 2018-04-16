@@ -57,7 +57,7 @@
 		<section>
 			<article class="reflection weekZero">
 				<h2>Week Zero Reflection</h2>
-				<p>
+				<p> This week has been primarily been about adjusting to a new workspace and routine. While I felt this week went fairly smoothly I suspect that the coming weeks are going to be rough. The calm before the storm so to speak. Nonetheless I’m excited to get deeper into this whole thing. Onward.
 				</p>
 			</article>
 		</section>
