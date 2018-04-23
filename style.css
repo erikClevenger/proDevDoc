@@ -10,4 +10,11 @@ section {
 
 }
 
+.identityTable {
+	width: auto;
+	margin: auto;
+	border: cadetblue solid 2px;
+	text-align: center;
+}
+
 

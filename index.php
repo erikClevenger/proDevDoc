@@ -54,6 +54,45 @@
 					<br>To do that I’m building a platform that connects potential donors to organizations with the same goals.
 					<br>Who do you want to support?</p>
 			</div>
+		</section class= "split">
+			<table class="identityTable">
+				<tr>
+					<th></th>
+					<th>Professional</th>
+					<th>Personal</th>
+				</tr>
+				<tr>
+					<td><strong>Identity</strong></td>
+					<td>Erik Clevenger, Mod~Wrk, ModWrk</td>
+					<td>Spotify</td>
+				</tr>
+				<tr>
+					<td><strong>Channels</strong></td>
+					<td>
+						<ul>
+							<li>GitHub</li>
+							<li>LinkedIn</li>
+							<li><a href="http://modwrk.com/"></a>Mod~Wrk</li>
+							<li>Twitter</li>
+							<li>Instagram</li>
+						</ul>
+					</td>
+					<td>Instant Checkmate ???</td>
+				</tr>
+				<tr>
+					<td><strong>Content</strong></td>
+					<td>
+						<ul>
+							<li>Multimedia Designer</li>
+							<li>UI/UX Designer</li>
+							<li>Graphic Designer</li>
+							<li>Budding Frontend Dev</li>
+						</ul>
+					</td>
+					<td><h1>👻</h1></td>
+				</tr>
+			</table>
+
 		</section>
 		<section>
 			<article class="reflection weekZero">
