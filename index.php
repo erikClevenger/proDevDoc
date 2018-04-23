@@ -14,6 +14,7 @@
 		<h2>Personal Links</h2>
 		<a href="https://github.com/erikClevenger">GitHUb</a>
 		<a href="https://www.linkedin.com/in/modwrk/">LinkedIn</a>
+		<a download=""></a>
 		<h2>Deep Dive Homework</h2>
 		<a href="https://bootcamp-coders.cnm.edu/~eclevenger/data-design/index.php">Data Design</a>
 		<section>
@@ -59,6 +60,13 @@
 				<h2>Week Zero Reflection</h2>
 				<p> This week has been primarily been about adjusting to a new workspace and routine. While I felt this week went fairly smoothly I suspect that the coming weeks are going to be rough. The calm before the storm so to speak. Nonetheless I’m excited to get deeper into this whole thing. Onward.
 				</p>
+			</article>
+			<article class="reflection weekOne">
+				<h2>Week One Reflection</h2>
+				<p>This is the week where the other foot began to drop. While week0 was more of a welcome review, week1
+					is where the topics of discussion in class began to eclipse my understand of web dev. queue my sense
+					of being lost. While at times I start to confuse and over complicate things I'm also excited to add
+					to my skillset.</p>
 			</article>
 		</section>
 	</body>
