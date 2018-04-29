@@ -12,9 +12,9 @@
 			<li>Career Buddy: James Ticer</li>
 		</ul>
 		<h2>Personal Links</h2>
-		<a href="https://github.com/erikClevenger">GitHUb</a>
+		<a href="https://github.com/erikClevenger">GitHub</a>
 		<a href="https://www.linkedin.com/in/modwrk/">LinkedIn</a>
-		<a href="resume_ErikClevenger.pdf">Resume</a>
+		<a href="resume-ErikClevenger.pdf">Resume</a>
 		<h2>Deep Dive Homework</h2>
 		<a href="https://bootcamp-coders.cnm.edu/~eclevenger/data-design/index.php">Data Design</a>
 		<section>
