@@ -55,44 +55,61 @@
 					<br>Who do you want to support?</p>
 			</div>
 		</section class= "split">
-			<table class="identityTable">
-				<tr>
-					<th></th>
-					<th>Professional</th>
-					<th>Personal</th>
-				</tr>
-				<tr>
-					<td><strong>Identity</strong></td>
-					<td>Erik Clevenger, Mod~Wrk, ModWrk</td>
-					<td>Spotify</td>
-				</tr>
-				<tr>
-					<td><strong>Channels</strong></td>
-					<td>
-						<ul>
-							<li>GitHub</li>
-							<li>LinkedIn</li>
-							<li><a href="http://modwrk.com/"></a>Mod~Wrk</li>
-							<li>Twitter</li>
-							<li>Instagram</li>
-						</ul>
-					</td>
-					<td>Instant Checkmate ???</td>
-				</tr>
-				<tr>
-					<td><strong>Content</strong></td>
-					<td>
-						<ul>
-							<li>Multimedia Designer</li>
-							<li>UI/UX Designer</li>
-							<li>Graphic Designer</li>
-							<li>Budding Frontend Dev</li>
-						</ul>
-					</td>
-					<td><h1>👻</h1></td>
-				</tr>
-			</table>
-
+		<section>
+			<div class="split">
+				<table class="identityTable">
+					<tr>
+						<th></th>
+						<th>Professional</th>
+						<th>Personal</th>
+					</tr>
+					<tr>
+						<td><strong>Identity</strong></td>
+						<td>Erik Clevenger, Mod~Wrk, ModWrk</td>
+						<td>Spotify</td>
+					</tr>
+					<tr>
+						<td><strong>Channels</strong></td>
+						<td>
+							<ul>
+								<li>GitHub</li>
+								<li>LinkedIn</li>
+								<li><a href="http://modwrk.com/"></a>Mod~Wrk</li>
+								<li>Twitter</li>
+								<li>Instagram</li>
+							</ul>
+						</td>
+						<td>Instant Checkmate ???</td>
+					</tr>
+					<tr>
+						<td><strong>Content</strong></td>
+						<td>
+							<ul>
+								<li>Multimedia Designer</li>
+								<li>UI/UX Designer</li>
+								<li>Graphic Designer</li>
+								<li>Budding Frontend Dev</li>
+							</ul>
+						</td>
+						<td><h1>👻</h1></td>
+					</tr>
+				</table>
+			</div>
+			<div>
+				<h3>Week 2 Activity</h3>
+				<ol>
+					<li><strong>Has anyone ever told you that you’ve got potential? Do you believe it? Why, why
+						not?</strong><br>
+						<p>I’ve been told throughout my life that I’m full of potential, however it was often stated as
+						“wasted potential”. I didn’t totally believe it but in a way I could feel it. Likely because of the way I grew up I just didn’t believe people from my background could live up to those expectations… I thought the examples of that we’re Cinderella stories told to people to make them feel nice.</p></li>
+					<li><strong>Internal or External factors keeping you from reaching your goal? How can you over come them?</strong>
+						<p>Internal- lack of confidence, anxiety, procrastination.<br>
+						External- <span class="strike">Lack of opportunity, lack of positive influence.</span></p>
+					</li>
+					<li><strong>How do you create value for others?</strong>
+					<p>I am willing to go far above and beyond for the sake of a well executed project.</p></li>
+				</ol>
+			</div>
 		</section>
 		<section>
 			<article class="reflection weekZero">
@@ -106,6 +123,15 @@
 					is where the topics of discussion in class began to eclipse my understand of web dev. queue my sense
 					of being lost. While at times I start to confuse and over complicate things I'm also excited to add
 					to my skillset.</p>
+			</article>
+			<article class="reflection weekTwo">
+				<h2>Week Two Reflection</h2>
+				<p>As anticipated the other shoe did indeed drop this week. In retrospect this week seems like three
+					rolled into one. The subject matter continues to get more and more foreign as the pace seems to gain
+					momentum almost hourly. None of this is to say that I am unhappy with any of that; on the contrary I
+					prefer work environments that operate this way. It keeps me engaged. <br>
+					Its somewhat masochistic I suppose. ¯\_(ツ)_/¯
+				</p>
 			</article>
 		</section>
 	</body>
