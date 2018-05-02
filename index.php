@@ -96,35 +96,55 @@
 				</table>
 			</div>
 			<div>
-				<h3>Week 2 Activity</h3>
-				<ol>
-					<li><strong>Has anyone ever told you that you’ve got potential? Do you believe it? Why, why
-						not?</strong><br>
-						<p>I’ve been told throughout my life that I’m full of potential, however it was often stated as
-						“wasted potential”. I didn’t totally believe it but in a way I could feel it. Likely because of the way I grew up I just didn’t believe people from my background could live up to those expectations… I thought the examples of that we’re Cinderella stories told to people to make them feel nice.</p></li>
-					<li><strong>Internal or External factors keeping you from reaching your goal? How can you over come them?</strong>
-						<p>Internal- lack of confidence, anxiety, procrastination.<br>
-						External- <span class="strike">Lack of opportunity, lack of positive influence.</span></p>
-					</li>
-					<li><strong>How do you create value for others?</strong>
-					<p>I am willing to go far above and beyond for the sake of a well executed project.</p></li>
-				</ol>
+				<h2>Week 2 Activities</h2>
+				<div>
+					<ol>
+						<li><strong>Has anyone ever told you that you’ve got potential? Do you believe it? Why, why
+							not?</strong><br>
+							<p>I’ve been told throughout my life that I’m full of potential, however it was often stated as
+							“wasted potential”. I didn’t totally believe it but in a way I could feel it. Likely because of the way I grew up I just didn’t believe people from my background could live up to those expectations… I thought the examples of that we’re Cinderella stories told to people to make them feel nice.</p></li>
+						<li><strong>Internal or External factors keeping you from reaching your goal? How can you over come them?</strong>
+							<p>Internal- lack of confidence, anxiety, procrastination.<br>
+							External- <span class="strike">Lack of opportunity, lack of positive influence.</span></p>
+						</li>
+						<li><strong>How do you create value for others?</strong>
+						<p>I am willing to go far above and beyond for the sake of a well executed project.</p></li>
+					</ol>
+				</div>
+				<div>
+					<h3>Stove Top</h3>
+					<ul>
+						<li><strong>Back</strong>
+							<ol>
+								<li>Write a full proposal for a passion project.</li>
+								<li>Continue developing skills (Grad School?)</li>
+							</ol>
+						</li>
+						<li><strong>Front</strong>
+							<ol>
+								<li>Finish this bootcamp with a dope Capstone</li>
+								<li>Register for Angular Attack.</li>
+							</ol>
+						</li>
+					</ul>
+				</div>
 			</div>
+			<div class="clearfix"></div>
 		</section>
 		<section>
-			<article class="reflection weekZero">
+			<div class="reflection weekZero">
 				<h2>Week Zero Reflection</h2>
 				<p> This week has been primarily been about adjusting to a new workspace and routine. While I felt this week went fairly smoothly I suspect that the coming weeks are going to be rough. The calm before the storm so to speak. Nonetheless I’m excited to get deeper into this whole thing. Onward.
 				</p>
-			</article>
-			<article class="reflection weekOne">
+			</div>
+			<div class="reflection weekOne">
 				<h2>Week One Reflection</h2>
 				<p>This is the week where the other foot began to drop. While week0 was more of a welcome review, week1
 					is where the topics of discussion in class began to eclipse my understand of web dev. queue my sense
 					of being lost. While at times I start to confuse and over complicate things I'm also excited to add
 					to my skillset.</p>
-			</article>
-			<article class="reflection weekTwo">
+			</div>
+			<div class="reflection weekTwo">
 				<h2>Week Two Reflection</h2>
 				<p>As anticipated the other shoe did indeed drop this week. In retrospect this week seems like three
 					rolled into one. The subject matter continues to get more and more foreign as the pace seems to gain
@@ -132,7 +152,7 @@
 					prefer work environments that operate this way. It keeps me engaged. <br>
 					Its somewhat masochistic I suppose. ¯\_(ツ)_/¯
 				</p>
-			</article>
+			</div>
 		</section>
 	</body>
 </html>
