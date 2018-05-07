@@ -8,7 +8,7 @@
 	<body>
 		<h1>Erik's Pro Dev Doc</h1>
 		<ul>
-			<li>updated 4/15/18</li>
+			<li>updated 5/6/18</li>
 			<li>Career Buddy: James Ticer</li>
 		</ul>
 		<h2>Personal Links</h2>
