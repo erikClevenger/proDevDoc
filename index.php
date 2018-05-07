@@ -130,27 +130,52 @@
 				</div>
 			</div>
 			<div class="clearfix"></div>
+			<div>
+				<h2>Week Three Activities</h2>
+				<div class="textBlock">
+					<h3>Capstone Board Game</h3>
+					<p>Our groups were given the task of learning to play what might be the most convoluted board game I
+						have ever personally played.<br>
+						What this experience taught me about my group is that the 4 of us have a tendency to be pretty
+						analytical and strategic. Ultimately these qualities are a good thing but we all recognize the
+						plausible reality of our group being overly analytical to a point that it slows us down.<br>
+						I'm confident though that this exercise allowed us to recognize our tendency to scrutinize which gives
+						us the capacity to keep it from becoming a problem.
+					</p>
+				</div>
+			</div>
 		</section>
-		<section>
-			<div class="reflection weekZero">
-				<h2>Week Zero Reflection</h2>
+		<section class="weeklyReflections reflection">
+			<h2>Weekly Reflections</h2>
+			<div class="weekZero textBlock">
+				<h2>Week Zero</h2>
 				<p> This week has been primarily been about adjusting to a new workspace and routine. While I felt this week went fairly smoothly I suspect that the coming weeks are going to be rough. The calm before the storm so to speak. Nonetheless I’m excited to get deeper into this whole thing. Onward.
 				</p>
 			</div>
-			<div class="reflection weekOne">
-				<h2>Week One Reflection</h2>
+			<div class="weekOne textBlock">
+				<h3>Week One</h3>
 				<p>This is the week where the other foot began to drop. While week0 was more of a welcome review, week1
 					is where the topics of discussion in class began to eclipse my understand of web dev. queue my sense
 					of being lost. While at times I start to confuse and over complicate things I'm also excited to add
 					to my skillset.</p>
 			</div>
-			<div class="reflection weekTwo">
-				<h2>Week Two Reflection</h2>
+			<div class="weekTwo textBlock">
+				<h3>Week Two</h3>
 				<p>As anticipated the other shoe did indeed drop this week. In retrospect this week seems like three
 					rolled into one. The subject matter continues to get more and more foreign as the pace seems to gain
 					momentum almost hourly. None of this is to say that I am unhappy with any of that; on the contrary I
 					prefer work environments that operate this way. It keeps me engaged. <br>
 					Its somewhat masochistic I suppose. ¯\_(ツ)_/¯
+				</p>
+			</div>
+			<div class="weekThree textBlock">
+				<h3>Week Three</h3>
+				<p>The capstone sprint has begun. I'm pretty confident in the group I was placed in. Our group dynamic
+					is working out pretty nicely so far. We knocked out data-design pretty smoothly and now its time to
+					get to it. As far as the class goes we had our first assessment this week which seemed to take a toll
+					on everyone. We're all starting to show the signs of exhaustion.<br>
+					Aside of that I'm looking at some really exciting job opportunities. Despite being tired I'm excited
+					for what lies ahead.
 				</p>
 			</div>
 		</section>

@@ -1,3 +1,6 @@
+body {
+	font-family: sans-serif;
+}
 section {
 	width: 100%;
 	height: auto;
@@ -24,4 +27,14 @@ section {
 .clearfix {
 	width: 100%;
 	height: auto;
+}
+
+.reflection {
+	max-width: 100%;
+}
+
+.textBlock {
+	width: 60vw;
+	height: auto;
+	margin: auto;
 }
