@@ -14,7 +14,7 @@
 		<h2>Personal Links</h2>
 		<a href="https://github.com/erikClevenger">GitHub</a>
 		<a href="https://www.linkedin.com/in/modwrk/">LinkedIn</a>
-		<a href="resume-ErikClevenger.pdf">Resume</a>
+		<a href="">Resume</a>
 		<a href="erik-clevenger-cover.pdf">Meow Wolf cover letter.</a>
 		<h2>Deep Dive Homework</h2>
 		<a href="https://bootcamp-coders.cnm.edu/~eclevenger/data-design/index.php">Data Design</a>
