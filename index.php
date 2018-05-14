@@ -179,6 +179,14 @@
 					for what lies ahead.
 				</p>
 			</div>
+			<div class="weekFour textBlock">
+				<h3>Week Four</h3>
+				<p>Last week seems like a angular blur for me. We began the week with a PHP code review which went pretty
+					well. I've been focusing on getting my foot in the door at a shop where I can combine my creative and
+					technological sides. In that way I'm fixated on Meow Wolf, which I applied to. Going forward I'll be
+					researching other options as well. Onward.
+				</p>
+			</div>
 		</section>
 	</body>
 </html>
