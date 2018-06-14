@@ -50,10 +50,14 @@
 				<p>What: Build a platform for community driven organizations to connect to sources of funding</p>
 			</div>
 			<div class="split elevator">
-				<h2>Elevator Pitch</h2>
+				<h2>Elevator Pitch 1</h2>
 				<p>My name is erik. I’m finding creative solutions for funding community driven organizations and nonprofits.
 					<br>To do that I’m building a platform that connects potential donors to organizations with the same goals.
 					<br>Who do you want to support?</p>
+				<h2>Elevator Pitch 2</h2>
+				<p>My name is erik. I’m an artist, designer and developer focusing on utilizing web technologies, mobile
+					devices, and projection mapping to explore the future of digital experiences.
+					<br>What do you want to experience?</p>
 			</div>
 		</section class= "split">
 		<section>
@@ -186,6 +190,13 @@
 					technological sides. In that way I'm fixated on Meow Wolf, which I applied to. Going forward I'll be
 					researching other options as well. Onward.
 				</p>
+			</div>
+			<div class="finalReflection textBlock">
+				<h3>Final Reflection</h3>
+				<p>A fellow "cadet" said it best during stand-up "10 weeks leading up to 5 minutes". It was interesting
+					to see how having built something that is tangible is an enormous confidence boost. I felt
+					comfortable talking to other developers and speaking in what I can no longer call "their terms".
+					These are my terms now too, I can officially call myself a developer.</p>
 			</div>
 		</section>
 	</body>
